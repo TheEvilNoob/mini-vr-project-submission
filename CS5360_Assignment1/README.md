@@ -1,4 +1,4 @@
-Important: This project uses SteamVR/OpenVR.
+Important: This project uses SteamVR/OpenVR. You might need to download SteamVR on Steam. Vive Controls are not currently supported.
 
 We have all contributed to this code in an equitable manner and agree that, to the best
 of our knowledge, it accurately represents our understanding for the assignment.
@@ -21,10 +21,12 @@ Controls in part 2:
 Teleport - Joysticks/Trackpad Up
 Quick rotate - Joysticks/Trackpad Left or Right.
 Start/Stop game - X button on the (left) controller
-Game Button (to be pressed when your controller is in the area of the lit of point light) - Side button (where your middle finger rests)
+Game Button to toggle light - Grip button
 Tab - Resets character position
 
 Controls in part 3:
 Same as in part 2, except left joystick moves the player instead of teleports. Right joystick retains part 2 controls.
 Change between mirroring and matching - M Key
 Flipping the camera - F Key
+
+Vive Controls are not currently supported.
